@@ -1,1 +1,1 @@
-<h1>bzen is noob</h1>
+<h1></h1>
